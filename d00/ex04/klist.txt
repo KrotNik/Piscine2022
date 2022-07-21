@@ -1,0 +1,5 @@
+Credentials cache: API:5220
+        Principal: nivasile@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 28 17:58:06 2022  Jun 29 03:58:06 2022  krbtgt/HIVE.FI@HIVE.FI
